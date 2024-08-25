@@ -1,0 +1,21 @@
+{
+    "digitalspace-acme-dns": "digitalspacestdio/homebrew-ngdev",
+    "digitalspace-allutils": "digitalspacestdio/homebrew-ngdev",
+    "digitalspace-dnsmasq": "digitalspacestdio/homebrew-ngdev",
+    "digitalspace-git-ssh": "digitalspacestdio/homebrew-ngdev",
+    "digitalspace-local-ca": "digitalspacestdio/homebrew-ngdev",
+    "digitalspace-lua-resty-core": "digitalspacestdio/homebrew-ngdev",
+    "digitalspace-mailhog": "digitalspacestdio/homebrew-ngdev",
+    "digitalspace-mysql57": "digitalspacestdio/homebrew-ngdev",
+    "digitalspace-mysql80": "digitalspacestdio/homebrew-ngdev",
+    "digitalspace-nginx-lua-module": "digitalspacestdio/homebrew-ngdev",
+    "digitalspace-nginx": "digitalspacestdio/homebrew-ngdev",
+    "digitalspace-ngx-devel-kit": "digitalspacestdio/homebrew-ngdev",
+    "digitalspace-openresty-openssl111": "digitalspacestdio/homebrew-ngdev",
+    "digitalspace-openresty": "digitalspacestdio/homebrew-ngdev",
+    "digitalspace-postgresql15": "digitalspacestdio/homebrew-ngdev",
+    "digitalspace-redis": "digitalspacestdio/homebrew-ngdev",
+    "digitalspace-supervisor": "digitalspacestdio/homebrew-ngdev",
+    "digitalspace-traefik": "digitalspacestdio/homebrew-ngdev",
+    "digitalspace-webp-convert": "digitalspacestdio/homebrew-ngdev"
+}
